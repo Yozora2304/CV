@@ -8,7 +8,7 @@
     <h1>Junior Backend Developer</h1>
     <p>Cikarang Selatan, Bekasi, Jawa Barat, Indonesia, +62 822-2928-5542, vinn.htglng@gmail.com</p>
     <h1>Skills</h1>
-    <p>HTML, CSS, Figma to Design, Presentation, Database Administator</p>
+    <p>HTML, CSS, python, blender, Figma to Design, Presentation, Database Administator</p>
     <h1>Education</h1>
     <h2>Universitas Bina Sarana Informatika, Cikarang Selatan - Mahasiswa</h2>
     <p>Himpunan Mahasiswa Teknologi Informasi</p>
