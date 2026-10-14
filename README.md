@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Maharani Oktaviana H</title>
+    <h1>Maharani Oktaviana H</h1>
   </head>
   <body>
     <h1>Junior Frontend Developer</h1>
